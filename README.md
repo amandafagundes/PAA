@@ -11,5 +11,8 @@ A fim de se evitar que um estado seja gerado mais de uma vez, foi criado o `visi
 
 Foram solucionados quatro problemas disponibilizados na plataforma URI Online Judge e, cada uma das soluções foi criada baseando-se em algum dos paradigmas de programação:
 
-* **1088:** Divisão e Conquista * **1642:** Indução * **1966:** Algoritmo guloso * **2446:** Programação dinâmica
-* Item1 *Item 2
+* **1088:** Divisão e Conquista 
+* **1642:** Indução 
+* **1966:** Algoritmo guloso 
+* **2446:** Programação dinâmica
+
